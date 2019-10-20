@@ -1,0 +1,10 @@
+[package]
+name = "rust-adventofcode2018"
+version = "0.1.0"
+authors = ["Alex"]
+
+[[bin]]
+name = "main"
+path = "main.rs"
+
+[dependencies]
